@@ -23,6 +23,7 @@ stronk, a {
 	padding: 40px;
 	width: 500px;
 	/*height: 650px;*/
+	position: relative;
 }
 
 #HCB_comment_box {
