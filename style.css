@@ -1,0 +1,31 @@
+html {
+	background-image: url("back.jpg");
+	background-size:cover
+}
+
+* {
+	font-family: courier;
+	color: red;
+}
+
+main {
+	text-align: center;
+}
+
+stronk, a {
+	color: yellow;
+}
+
+#box {
+	align-self: left;
+	background-image: url("paper.png");
+	image-rendering: -webkit-optimize-contrast;
+	padding: 40px;
+	width: 500px;
+	/*height: 650px;*/
+}
+
+#HCB_comment_box {
+	align-self: right;
+	text-align: right;
+}
