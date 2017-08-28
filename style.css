@@ -32,5 +32,6 @@ stronk, a {
 	width: 200px;
 	height: 400px;
 	overflow: auto;
-	 position: absolute;
+	position: absolute;
+	z-index: 10;
 }
