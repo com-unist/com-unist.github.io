@@ -26,6 +26,11 @@ stronk, a {
 }
 
 #HCB_comment_box {
+	float:right;   
 	align-self: right;
 	text-align: right;
+	width: 200px;
+	height: 400px;
+	overflow: auto;
+	 position: absolute;
 }
