@@ -21,7 +21,7 @@ stronk, a {
 	background-image: url("paper.png");
 	image-rendering: -webkit-optimize-contrast;
 	padding: 40px;
-	width: 500px;
+	width: 40%;
 	/*height: 650px;*/
 	position: relative;
 }
@@ -30,7 +30,7 @@ stronk, a {
 	float:right;   
 	align-self: right;
 	text-align: right;
-	width: 350px;
+	width: 40%;
 	height: 80%;
 	overflow: auto;
 	position: absolute;
